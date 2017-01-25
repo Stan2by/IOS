@@ -11,7 +11,6 @@ Important to notice that all devices need to register the user device Id (UDID) 
   1. Connect device to notebook or personal computer.
   2. Open iTunes programme (if not available go to [download instruction](#iTunes Download))
   3. Click the device button
-  
   ![iTunes](/relative/path/to/img.jpg?raw=true "iTunes")
   
 ##### Option B
