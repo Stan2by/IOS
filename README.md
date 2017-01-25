@@ -47,10 +47,10 @@ Please refer to apple official website then download your itunes: http://www.app
   3. Open the url in you device
   4. Click the install application in section INSTALLATION
   
-  ![iphone](?raw=true "iPhone")
+  ![iphone](https://github.com/mast2016/IOS/blob/master/iphone.PNG?raw=true "iPhone")
   
   5. Click Install in the popup "api.diawi.com would like to install mastProject"
   
-  ![iphone](?raw=true "iPhone")
+  ![iphone](https://github.com/mast2016/IOS/blob/master/iphone2.PNG?raw=true "iPhone")
   
   6. Go to home MaST apps will be downloaded and install on your device
