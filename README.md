@@ -53,4 +53,4 @@ Please refer to apple official website then download your itunes: http://www.app
   
   ![iphone](https://github.com/mast2016/IOS/blob/master/iphone2.PNG?raw=true "iPhone")
   
-  6. Go to home MaST apps will be downloaded and install on your device
+  6. Go to home, MaST apps will be downloaded and install on your device
