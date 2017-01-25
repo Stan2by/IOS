@@ -12,7 +12,7 @@ Important to notice that all devices need to register the user device Id (UDID) 
   2. Open iTunes programme (if not available go to [download instruction](#iTunes Download))
   3. Click the device button
   
-  ![iTunes](/relative/path/to/img.jpg?raw=true "iTunes")
+  ![iTunes](https://github.com/mast2016/IOS/blob/master/iTunes.jpg?raw=true "iTunes")
   
 ##### Option B
   Request to check UDID by email from the person in-charge
