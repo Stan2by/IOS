@@ -18,9 +18,15 @@ Important to notice that all devices need to register the user device Id (UDID) 
   
   ![iTunes](https://github.com/mast2016/IOS/blob/master/itunes2.png?raw=true "iTunes")
   
+  5. Right click to copy the UDID of your device
+  6. Email your UDID to mohdshah@tmrnd.com.my
+  
 ##### Option B
-  Request to check UDID by email from the person in-charge
+  Send email request to check UDID to mohdshah@tmrnd.com.my
 
 ## iTunes Download
 
+  Please refer to apple official website then download your itunes
+  http://www.apple.com/itunes/download/
+  
 ## Installation
