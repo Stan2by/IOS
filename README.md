@@ -14,6 +14,10 @@ Important to notice that all devices need to register the user device Id (UDID) 
   
   ![iTunes](https://github.com/mast2016/IOS/blob/master/itunes.png?raw=true "iTunes")
   
+  4. Click at the Serial Number
+  
+  ![iTunes](https://github.com/mast2016/IOS/blob/master/itunes2.png?raw=true "iTunes")
+  
 ##### Option B
   Request to check UDID by email from the person in-charge
 
