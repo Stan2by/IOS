@@ -7,7 +7,7 @@ This document includes a tutorial on how to install a MaST IOS release.
 Important to notice that all devices need to register the user device Id (UDID) to this Apple Developer application before perform any installation.
 
 #### UDID Guideline
-##### Option A
+#### Option A
   1. Connect device to notebook or personal computer.
   2. Open iTunes programme (if not available go to [download instruction](#iTunes Download))
   3. Click the device button
@@ -21,7 +21,8 @@ Important to notice that all devices need to register the user device Id (UDID) 
   5. Right click to copy the UDID of your device
   6. Email your UDID to mohdshah@tmrnd.com.my
   
-##### Option B
+  
+#### Option B
   Send email request to check UDID to mohdshah@tmrnd.com.my
 
 ## iTunes Download
