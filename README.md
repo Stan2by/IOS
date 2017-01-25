@@ -42,9 +42,15 @@ Please refer to apple official website then download your itunes: http://www.app
   2. You will receive an Url of IOS ipa within 24 hours after sending the UDID
       
       eg: https://i.diawi.com/P6ExAX
+      
   
   3. Open the url in you device
-  4. Click the...
+  4. Click the install application in section INSTALLATION
   
+  ![iphone](https://github.com/mast2016/IOS/blob/master/iphone.png?raw=true "iPhone")
   
+  5. Click Install in the popup "api.diawi.com would like to install mastProject"
   
+  ![iphone](https://github.com/mast2016/IOS/blob/master/iphone2.png?raw=true "iPhone")
+  
+  6. Go to home MaST apps will be downloaded and install on your device
