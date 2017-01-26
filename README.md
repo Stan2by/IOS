@@ -1,5 +1,8 @@
 # IOS
 
+This release is a temporary installation resource before proceeding to upload to the Apple Store. 
+Coming soon April 2017
+
 This is a release repository for MaST IOS that consist of the 4 testing application to assist TM users in troubleshooting home Unifi and Streamyx wireless router.
 
 This document includes a tutorial on how to install a MaST IOS release.
